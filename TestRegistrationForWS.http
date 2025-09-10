@@ -1,0 +1,6 @@
+@TestRegistrationForWS_HostAddress = http://localhost:5229
+
+GET {{TestRegistrationForWS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
